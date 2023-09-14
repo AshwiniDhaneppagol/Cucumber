@@ -24,7 +24,7 @@ Feature: Navigate to menu with parameters
 
     Examples:
       | menu       | header    |
-      | All Posts  | Post     |
+      | All Posts  | Posts    |
       | My Account | Dashboard |
 
 

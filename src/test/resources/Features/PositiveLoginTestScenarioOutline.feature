@@ -1,5 +1,6 @@
 Feature: Login as different users using Scenario Outline
 
+  @smoke
   Scenario Outline: Login as different users using Scenario Outline
     Given The user is on the login page
     When The user logs in using "<username>" and "<password>"
